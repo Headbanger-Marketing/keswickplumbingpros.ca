@@ -1,2 +1,27 @@
 # Keswick Plumbing Pros
-HVAC services in Ontario.
+
+> Keswick Plumbing Pros is a local HVAC company serving Keswick, York, Ontario, offering furnace repair, AC repair, ductless mini-split installation, heat pump repair and installation, fireplace installation, thermostat repair, and duct cleaning to homeowners across the region.
+
+Phone: (905) 476-8231  |  Email: contact@keswickplumbingpros.ca  |  Website: https://keswickplumbingpros.ca
+
+Service areas: Jackson's Point
+
+## Key pages
+
+- [Home](https://keswickplumbingpros.ca/): Keswick Plumbing Pros homepage with service overview and FAQ
+- [About](https://keswickplumbingpros.ca/about/): About the company and service area
+- [Contact](https://keswickplumbingpros.ca/contact/): Request a free quote or service call
+
+## Services
+
+- [Water Heaters](https://keswickplumbingpros.ca/services/water-heaters/): Water Heaters in Keswick, Ontario
+- [Drain Cleaning](https://keswickplumbingpros.ca/services/drain-cleaning/): Drain Cleaning in Keswick, Ontario
+- [Repiping](https://keswickplumbingpros.ca/services/repiping/): Repiping in Keswick, Ontario
+- [Fixtures & Toilets](https://keswickplumbingpros.ca/services/fixtures-toilets/): Fixtures & Toilets in Keswick, Ontario
+- [Leak Detection & Repair](https://keswickplumbingpros.ca/services/leak-detection/): Leak Detection & Repair in Keswick, Ontario
+- [Sump Pumps & Backwater](https://keswickplumbingpros.ca/services/sump-pumps/): Sump Pumps & Backwater in Keswick, Ontario
+- [Water Softeners & Filtration](https://keswickplumbingpros.ca/services/water-softeners/): Water Softeners & Filtration in Keswick, Ontario
+
+## FAQ
+
+Common questions about HVAC service in Keswick are answered on the homepage.
